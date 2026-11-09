@@ -1,0 +1,9 @@
+{
+  "snippets": {
+    ";git": "git add . && git commit -m 'update' && git push",
+    ";greet": "Hi there! Thanks for reaching out. Let me look into that for you right away.",
+    ";hono": "import { Hono } from 'hono'\nconst app = new Hono()\nexport default app",
+    ";todo": "## TODAY'S TO-DO LIST:\n- [ ] Task 1\n- [ ] Task 2",
+    ";me": "Your Name <your.email@example.com>"
+  }
+}
